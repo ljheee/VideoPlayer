@@ -6,7 +6,6 @@ import javax.swing.*;
 import javax.media.*;
 
 // 视频播放程序
-
 public class VideoPlayDemo extends JFrame {
 
 	private static final long serialVersionUID = 1006320035216556308L;
